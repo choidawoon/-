@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class N°úM_5_15654 {
+public class NÂ°ÃºM_5_15654 {
 	static int N;
 	static int M;
 	static int arr[];
@@ -24,7 +24,7 @@ public class N°úM_5_15654 {
 		}
 		Arrays.sort(arr);
 		
-		perm(0);
+		perm(0); 
 		
 		System.out.println(sb);
 	}
