@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-class ÆùÄÏ¸ó {
+class Ã†Ã¹Ã„ÃÂ¸Ã³ {
     public int solution(int[] nums) {
         int answer = 0;
         
@@ -15,7 +15,7 @@ class ÆùÄÏ¸ó {
         
         if(answer>=nums.length/2)
         	answer = nums.length/2;
-        
+         
         return answer;
     }
 }
