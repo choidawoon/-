@@ -32,7 +32,7 @@ public class 로또의최고순위와최저순위 {
         if(max>=7)
         	max = 6;
         
-        int[] answer = {max, min};
+        int[] answer = {max, min}; 
         return answer;
     }
 }
