@@ -1,4 +1,4 @@
-class Å°ÆĞµå´©¸£±â {
+class Ã…Â°Ã†ÃÂµÃ¥Â´Â©Â¸Â£Â±Ã¢ {
     public String solution(int[] numbers, String hand) {
         String answer = "";
         StringBuilder sb = new StringBuilder();
@@ -48,6 +48,6 @@ class Å°ÆĞµå´©¸£±â {
         }//for
         
         answer = sb.toString();
-        return answer;
+        return answer; 
     }
 }
