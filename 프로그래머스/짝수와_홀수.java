@@ -1,5 +1,5 @@
 
-public class Â¦¼ö¿Í_È¦¼ö {
+public class Ã‚Â¦Â¼Ã¶Â¿Ã_ÃˆÂ¦Â¼Ã¶ {
 	public String solution(int num) {
         String answer = "";
         if(num%2==0 || num==0){
@@ -8,6 +8,6 @@ public class Â¦¼ö¿Í_È¦¼ö {
         else{
             answer = "Odd";
         }
-        return answer;
+        return answer; 
     }
 }	
