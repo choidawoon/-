@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class ¼Ò¼ö¸¸µé±â {
+class ì†Œìˆ˜ë§Œë“¤ê¸° {
 	static int result[];
 	static int arr[];
 	static int N;

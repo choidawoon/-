@@ -1,4 +1,4 @@
-class Å°ÆÐµå´©¸£±â {
+class 키패드누르기 {
     public String solution(int[] numbers, String hand) {
         String answer = "";
         StringBuilder sb = new StringBuilder();
@@ -48,6 +48,6 @@ class Å°ÆÐµå´©¸£±â {
         }//for
         
         answer = sb.toString();
-        return answer; 
+        return answer;
     }
 }

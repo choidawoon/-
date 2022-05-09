@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-class Å©·¹ÀÎ_ÀÎÇü»Ì±â_°ÔÀÓ {
+class í¬ë ˆì¸_ì¸í˜•ë½‘ê¸°_ê²Œì„ {
     public int solution(int[][] board, int[] moves) {
         int answer = 0;
         

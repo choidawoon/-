@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class °°Àº_¼ıÀÚ´Â_½È¾î {
+public class ê°™ì€_ìˆ«ìëŠ”_ì‹«ì–´ {
     public int[] solution(int []arr) {
         int[] answer = {};
         

@@ -1,4 +1,4 @@
-class Æò±Õ_±¸ÇÏ±â {
+class í‰ê· _êµ¬í•˜ê¸° {
     public double solution(int[] arr) {
         double answer = 0;
         

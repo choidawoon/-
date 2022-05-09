@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ÀÚ¸´¼ö_´õÇÏ±â {
+public class ìë¦¿ìˆ˜_ë”í•˜ê¸° {
     public int solution(int n) {
         int answer = 0;
 

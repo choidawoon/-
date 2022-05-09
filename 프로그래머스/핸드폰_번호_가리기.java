@@ -1,4 +1,4 @@
-class ÇÚµåÆù_¹øÈ£_°¡¸®±â {
+class í•¸ë“œí°_ë²ˆí˜¸_ê°€ë¦¬ê¸° {
     public String solution(String phone_number) {
         String answer = "";
         

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class ¹®ÀÚ¿­_³»¸²Â÷¼øÀ¸·Î_¹èÄ¡ÇÏ±â {
+class ë¬¸ìì—´_ë‚´ë¦¼ì°¨ìˆœìœ¼ë¡œ_ë°°ì¹˜í•˜ê¸° {
     public String solution(String s) {
         String answer = "";
         

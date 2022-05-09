@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Á¤¼ö_³»¸²Â÷¼øÀ¸·Î_¹èÄ¡ÇÏ±â {
+class ì •ìˆ˜_ë‚´ë¦¼ì°¨ìˆœìœ¼ë¡œ_ë°°ì¹˜í•˜ê¸° {
     public long solution(long n) {
         long answer = 0;
         int cnt = 0;

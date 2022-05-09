@@ -1,4 +1,4 @@
-class ¾à¼öÀÇ°³¼ö¿Íµ¡¼À {
+class ì•½ìˆ˜ì˜ê°œìˆ˜ì™€ë§ì…ˆ {
     public int solution(int left, int right) {
         int answer = 0;
         

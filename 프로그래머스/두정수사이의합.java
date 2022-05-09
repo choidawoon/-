@@ -1,4 +1,4 @@
-class µÎÁ¤¼ö»çÀÌÀÇÇÕ {
+class ë‘ì •ìˆ˜ì‚¬ì´ì˜í•© {
     public long solution(int a, int b) {
         long answer = 0;
         

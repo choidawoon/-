@@ -1,4 +1,4 @@
-class ÃÖÁ¶Á÷»ç°¢Çü {
+class ìµœì¡°ì§ì‚¬ê°í˜• {
     public int solution(int[][] sizes) {
         int answer = 0;
         

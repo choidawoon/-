@@ -1,4 +1,4 @@
-class ³ª¸ÓÁö°¡_1ÀÌ_µÇ´Â¼ö_Ã£±â {
+class ë‚˜ë¨¸ì§€ê°€_1ì´_ë˜ëŠ”ìˆ˜_ì°¾ê¸° {
     public int solution(int n) {
         int answer = 0;
         

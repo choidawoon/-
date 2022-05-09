@@ -1,4 +1,4 @@
-class ºÎÁ·ÇÑ±Ý¾×°è»êÇÏ±â {
+class ë¶€ì¡±í•œê¸ˆì•¡ê³„ì‚°í•˜ê¸°{
     public long solution(int price, int money, int count) {
         long answer = 0;
         

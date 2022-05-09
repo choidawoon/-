@@ -1,4 +1,4 @@
-class ½Å±Ô¾ÆÀÌµğÃßÃµ {
+class ì‹ ê·œì•„ì´ë””ì¶”ì²œ {
     public String solution(String new_id) {
         String answer;
         

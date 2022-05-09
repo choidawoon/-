@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class ¾ø´Â¼ıÀÚ´õÇÏ±â {
+class ì—†ëŠ”ìˆ«ìë”í•˜ê¸° {
     public int solution(int[] numbers) {
     	
     	Arrays.sort(numbers);

@@ -1,9 +1,9 @@
-class °¡¿îµ¥_±ÛÀÚ_°¡Á®¿À±â {
+class ê°€ìš´ë°_ê¸€ì_ê°€ì ¸ì˜¤ê¸° {
     public String solution(String s) {
         String answer = "";
         
-        // È¦¼öÀÏ¶§ 2/n + 1
-        // Â¦¼öÀÏ¶§ 2/n, 2/n + 1
+        // È¦ï¿½ï¿½ï¿½Ï¶ï¿½ 2/n + 1
+        // Â¦ï¿½ï¿½ï¿½Ï¶ï¿½ 2/n, 2/n + 1
         
         StringBuilder sb = new StringBuilder();
         int n = s.length();

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class K¹øÂ°¼ö {
+class Kë²ˆì§¸ìˆ˜ {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
         

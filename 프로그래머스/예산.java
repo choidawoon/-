@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class ¿¹»ê {
+class ì˜ˆì‚° {
     public int solution(int[] d, int budget) {
         int answer = 0;
         

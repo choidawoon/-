@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
-class µÎ°³»Ì¾Æ¼­´õÇÏ±â {
+class ë‘ê°œë½‘ì•„ì„œë”í•˜ê¸° {
     public int[] solution(int[] numbers) {
         int[] answer;
         
