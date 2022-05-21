@@ -16,7 +16,7 @@ class 이상한_문자_만들기 {
             }
             answer += str[i];
         } 
-        
+         
         return answer;
     }
 }
