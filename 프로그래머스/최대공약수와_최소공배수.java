@@ -10,7 +10,7 @@ class 최대공약수와_최소공배수 {
 			int r = a % b;
 			a = b;
 			b = r;
-		}
+		} 
 		return a;
 	}
 }
