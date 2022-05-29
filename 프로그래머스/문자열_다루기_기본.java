@@ -14,7 +14,7 @@ class 문자열_다루기_기본 {
         		answer = false;
         	}
 
-        }
+        } 
         
         else
         	answer = false;
