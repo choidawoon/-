@@ -29,7 +29,7 @@ class 시저암호 {
         	}
         	
         }
-        
+         
         answer = sb.toString();
         return answer;
         
