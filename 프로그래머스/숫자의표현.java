@@ -15,7 +15,7 @@ class 숫자의표현 {
         	
         	if(sum==n)
         		answer++;
- 
+  
         }//for
         
         return answer;
