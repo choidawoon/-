@@ -27,7 +27,7 @@ class 다음_큰_숫자 {
         		}
         		
         	}
-        
+         
         return answer;
         
     }
