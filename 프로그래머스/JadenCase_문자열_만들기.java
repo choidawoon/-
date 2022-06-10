@@ -19,7 +19,7 @@ class JadenCase_문자열_만들기 {
         		check = false;
         	
         }
-        
+         
         answer = sb.toString();
         
         return answer;
