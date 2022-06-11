@@ -5,7 +5,7 @@ public class 짝수와_홀수 {
         if(num%2==0 || num==0){
             answer = "Even";
         }
-        else{
+        else{ 
             answer = "Odd";
         }
         return answer;
