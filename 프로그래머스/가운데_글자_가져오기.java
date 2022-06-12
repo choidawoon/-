@@ -2,8 +2,7 @@ class 가운데_글자_가져오기 {
     public String solution(String s) {
         String answer = "";
         
-        // Ȧ���϶� 2/n + 1
-        // ¦���϶� 2/n, 2/n + 1
+
         
         StringBuilder sb = new StringBuilder();
         int n = s.length();
