@@ -17,7 +17,7 @@ public class 같은_숫자는_싫어 {
         for(int i=0; i<list.size(); i++) {
         	answer[i] = list.get(i);
         }
-      
+       
         return answer;
     }
 }
