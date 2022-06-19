@@ -11,7 +11,7 @@ class 문자열_내림차순으로_배치하기 {
         for(int i=s.length(); i>0; i--) {
         	sb.append(carr[i-1]);
         }
-        
+         
         answer = sb.toString();
         return answer;
     }
