@@ -8,7 +8,7 @@ class 나머지가_1이_되는수_찾기 {
         		break;
         	}
         }
-        
+         
         
         return answer;
     }
