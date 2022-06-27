@@ -4,7 +4,7 @@ class 숫자문자열과영단어 {
         for(int i=0; i<10; i++) {
         	s = s.replace(num[i], Integer.toString(i));
         }
-        
+         
         int answer = Integer.parseInt(s);
         
         return answer;
