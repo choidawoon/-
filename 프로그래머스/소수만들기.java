@@ -18,7 +18,7 @@ class 소수만들기 {
         Arrays.sort(arr);
         comb(0,0);
         
-
+ 
         return answer;
     }
     static void comb(int idx, int start) {
