@@ -13,7 +13,7 @@ class 핸드폰_번호_가리기 {
         }
         
         answer = sb.toString();
-        
+         
         return answer;
     }
 }
