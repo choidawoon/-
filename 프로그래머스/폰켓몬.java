@@ -12,7 +12,7 @@ class ÆùÄÏ¸ó {
         }
         
         answer = list.size();
-        
+         
         if(answer>=nums.length/2)
         	answer = nums.length/2;
          
