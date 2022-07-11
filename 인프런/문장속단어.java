@@ -11,7 +11,7 @@ public class 문장속단어 {
 		String starr[] = str.split(" ");
 		
 		String result ="";
-		
+		 
 		for(int i=0; i<starr.length; i++) {
 			if(result.length()<starr[i].length())
 				result= starr[i];
