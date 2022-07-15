@@ -41,7 +41,7 @@ public class 아나그램 {
 				}
 			}
 		}
-		
+		 
 		if(check)
 			System.out.println("YES");
 		else
