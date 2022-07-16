@@ -46,6 +46,6 @@ public class 격자판_최대합 {
 		}
 		
 		System.out.println(max);
-	
+	 
 	}
 }
