@@ -35,6 +35,6 @@ public class 장난꾸러기 {
 		}
 		
 		System.out.println(a + " " + b);
-		
+		 
 	}
 }
