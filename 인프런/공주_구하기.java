@@ -30,7 +30,7 @@ public class 공주_구하기 {
 				break;
 			
 		}
-		
+		 
 		System.out.println(qu.poll());
 		
 	}
